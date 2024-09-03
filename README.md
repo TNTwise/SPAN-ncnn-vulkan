@@ -7,7 +7,7 @@
 - <a href="https://openmodeldb.info/models/4x-Nomos8k-span-otf-strong"> 4x-Nomos8k-span-otf-strong (4x)</a> by Helaman
 - <a href="https://openmodeldb.info/models/4x-Nomos8k-span-otf-medium"> 4x-Nomos8k-span-otf-medium (4x)</a> by Helaman
 - <a href="https://openmodeldb.info/models/4x-Nomos8k-span-otf-weak"> 4x-Nomos8k-span-otf-weak (4x)</a> by Helaman <br/>
-- <a href="https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD"> AniSD models (4x)</a> by SiroSky <br/>
+- <a href="https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD"> AniSD models (2x)</a> by SiroSky <br/>
 
 
 
